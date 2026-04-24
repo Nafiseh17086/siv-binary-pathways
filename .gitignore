@@ -39,3 +39,4 @@ results/charts/
 # Build artifacts
 *.pdf
 *.pptx
+data/*_csv/
