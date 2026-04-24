@@ -1,0 +1,39 @@
+{
+  "alpha": 0.05,
+  "gene": "FAU",
+  "total_rows": 1496,
+  "total_pathways": 641,
+  "total_clusters": 6,
+  "clusters": [
+    "Down-regulated SIV.Early ART During ART",
+    "Down-regulated SIV.Early ART Early ATI",
+    "Down-regulated SIV.Late ART Early ATI",
+    "Up-regulated SIV.Early ART During ART",
+    "Up-regulated SIV.Early ART Early ATI",
+    "Up-regulated SIV.Late ART Early ATI"
+  ],
+  "density": 0.3889755590223609,
+  "sig_per_cluster": {
+    "Down-regulated SIV.Early ART During ART": 139,
+    "Down-regulated SIV.Early ART Early ATI": 135,
+    "Down-regulated SIV.Late ART Early ATI": 127,
+    "Up-regulated SIV.Early ART During ART": 356,
+    "Up-regulated SIV.Early ART Early ATI": 376,
+    "Up-regulated SIV.Late ART Early ATI": 363
+  },
+  "up_only_count": 439,
+  "down_only_count": 156,
+  "shared_count": 46,
+  "mantel_r": 0.9846651247836513,
+  "gene_total_rows": 32,
+  "gene_unique_pathways": 16,
+  "gene_per_cluster": {
+    "Down-regulated SIV.Early ART During ART": 0,
+    "Down-regulated SIV.Early ART Early ATI": 0,
+    "Down-regulated SIV.Late ART Early ATI": 16,
+    "Up-regulated SIV.Early ART During ART": 16,
+    "Up-regulated SIV.Early ART Early ATI": 0,
+    "Up-regulated SIV.Late ART Early ATI": 0
+  },
+  "gene_min_padj": 7.303219852745908e-82
+}
